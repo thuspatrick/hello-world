@@ -1,2 +1,2 @@
 # hello-world
-testint repository on github
+testing repository on github
